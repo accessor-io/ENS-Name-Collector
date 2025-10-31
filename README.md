@@ -1,9 +1,8 @@
-ENS name collector that logs ENS names as you scroll on twitter or anywhere else really...
+Easy to use bookmarklet script that finds ENS .eth names on twitter/x as you scroll.
+Small user interface with ability to export to a .txt file.
+Works on any browser page. 
 
-easy to use: 
-
-copy and paste bookmarket script into broswer console. nothing fishy.
-a user interface will apear sticky at the top. 
+Just copy and paste bookmarklet script into broswer console or create a bookmark then paste the script in the url section, save and place on your bookmark bar for easy access.
 
 start to start.
 stop to stop.
